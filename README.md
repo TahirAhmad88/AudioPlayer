@@ -1,3 +1,7 @@
+[![Latest Release](https://img.shields.io/github/v/release/TahirAhmad88/AudioPlayer?label=download&color=orange&style=for-the-badge)](https://github.com/TahirAhmad88/AudioPlayer/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)]()
+
 # 🎵 AudioPlayerApp
 
 A lightweight, keyboard-first audio player for Windows built with **C# WinForms** and **Windows Media Player (WMP) COM**. Designed for power users who want full control without touching the mouse.
