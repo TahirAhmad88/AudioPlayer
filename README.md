@@ -131,6 +131,7 @@ This project is actively evolving. Planned updates:
 The roadmap is flexible – future updates will be driven by user feedback and technical feasibility.
 
 🤝 Contributing
+
 Contributions are welcome!
 If you find a bug or have a feature request, please open an issue or submit a pull request.
 
@@ -145,6 +146,7 @@ If you find a bug or have a feature request, please open an issue or submit a pu
 5. Open a Pull Request
 
 📄 License
+
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 * 👤 Author
