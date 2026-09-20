@@ -160,11 +160,16 @@ LinkedIn: www.linkedin.com/in/tahir-ahmad88
 If you like this project, please star ⭐ the repository and share it with others who might find it useful.
 
 📸 Screenshots
-https://github.com/user-attachments/assets/3df1bf80-de66-4c46-8660-277ad07889bb
-https://github.com/user-attachments/assets/1e2578a7-1d7d-4826-b356-89c93f32eff1
-https://github.com/user-attachments/assets/3d2b4920-c342-434d-b3f5-ea74671752ce
-https://github.com/user-attachments/assets/772519ef-7db1-453c-9d8f-9cfebb3ad0ba
-https://github.com/user-attachments/assets/407a8985-7fb6-426d-92ed-f4fca5cef384
+
+<img width="638" height="393" alt="Screenshot 2026-09-19 204746" src="https://github.com/user-attachments/assets/3df1bf80-de66-4c46-8660-277ad07889bb" />
+
+<img width="409" height="127" alt="image" src="https://github.com/user-attachments/assets/1e2578a7-1d7d-4826-b356-89c93f32eff1" />
+
+<img width="606" height="655" alt="image" src="https://github.com/user-attachments/assets/3d2b4920-c342-434d-b3f5-ea74671752ce" />
+
+<img width="326" height="203" alt="image" src="https://github.com/user-attachments/assets/772519ef-7db1-453c-9d8f-9cfebb3ad0ba" />
+
+<img width="326" height="439" alt="image" src="https://github.com/user-attachments/assets/407a8985-7fb6-426d-92ed-f4fca5cef384" />
 
 🙏 Acknowledgements
 * TagLib# – for audio metadata and album art.
